@@ -1,7 +1,9 @@
 # Data_analysis_Projects
 
 a. Market Research Projects:
+
  1- Hotel Booking cancellation Analysis:
+ 
 Description: Conducted market research on the hospitality industry to analyze customer preferences, booking patterns, and competitor offerings.
 This project analyzes hotel booking data to gain insights into the factors that influence booking cancellations in different hotels. The dataset contains information about reservations made in two types of hotels: 'Resort Hotel' and 'City Hotel'. We perform exploratory data analysis, data cleaning, and visualization to better understand the dataset and then proceed with various analyses.
 
